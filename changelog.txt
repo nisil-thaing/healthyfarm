@@ -1,0 +1,31 @@
+Version 1.8 – Update
+- Visual Composer updated
+- Frontend Editor fixed
+
+Version 1.7 – Update
+- Visual Composer updated
+
+Version 1.6 – Update
+- Visual Composer's update
+- Fixed bugs in the theme's files
+
+Version 1.5 – Update
+- Visual Composer's update
+- Theme's files bugs fixes
+
+Version 1.4 – Update
+- Added: ''About Us'' Page
+
+Version 1.3 – Update
+- Visual Composer was updated 
+- Fixed bugs in the theme's files
+
+Version 1.2 – Update
+- Improved: Documentation
+- Added: Child theme support
+
+ Version 1.1 – Update
+- Added: Built-in demo data import: one click - and your website becomes a precise copy of our demo site!
+- Added: Visual Composer demo content
+
+Version 1.0 – Release

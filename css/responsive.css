@@ -1,0 +1,474 @@
+@media (max-width: 1800px) {
+ 
+  .isotopeWrap.portfolio_mini .isotopeReadMore {
+    display: none;
+  }
+
+  .isotopeWrap.portfolio_mini .isotopeItem .isotopeStatickWrap .isotopeStatick .isotopeExcerpt {
+    font-size: 13px;
+    line-height: 16px;
+  }
+}
+
+@media (max-width: 1400px) {
+ 
+  .isotopeWrap.portfolio_big .isotopeItem .isotopeContent .isotopeTitle {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1299px) {
+ 
+  body {
+    min-width: 1160px;
+  }
+
+  .bodyStyleBoxed .wrapBox,
+	.wrapWide,
+	.fullWidth .isotopeWrap .fullContent article,
+	.main,
+	.mainWrap {
+    width: 1100px;
+  }
+
+  .isotopeWrap.portfolio_medium .isotopeReadMore {
+    display: none;
+  }
+}
+/*===========================================*/
+@media (max-width: 1170px) {
+ 
+  body {
+    min-width: 1000px;
+  }
+
+  .bodyStyleBoxed .wrapBox,
+	.wrapWide,
+	.fullWidth .isotopeWrap .fullContent article,
+	.main,
+	.mainWrap {
+    width: 940px;
+  }
+}
+/*===========================================*/
+@media (max-width: 1015px) {
+ 
+  body {
+    min-width: 700px;
+  }
+
+  p {
+    margin: 0 0 15px 0;
+  }
+
+  [class^="sc_columns_"].sc_columns_indent .sc_columns_item,
+	[class*=" sc_columns_"].sc_columns_indent .sc_columns_item {
+    margin-bottom: 15px;
+  }
+
+  .bodyStyleBoxed .wrapBox,
+	.wrapWide,
+	.fullWidth .isotopeWrap .fullContent article,
+	.main,
+	.mainWrap {
+    width: 640px;
+  }
+
+  .wrap {
+    padding: 0 20px;
+  }
+
+  .post + .post {
+    padding: 30px 0 15px 0;
+  }
+
+  .sideBarLeft .sideBar,
+	.sideBarRight .sideBar {
+    width: 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .sideBar .widgetWrap {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .sideBarLeft .content,
+	.sideBarRight .content {
+    width: 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .wrapTopMenu .topMenu > ul > li > a {
+    padding: 0 10px;
+    margin: 0 10px;
+  }
+
+  .menuStyleFixed #header.fixedTopMenuShow .menuFixedWrap {
+    left: 20px;
+    right: 20px;
+  }
+
+  .sideBar .widgetWrap + .widgetWrap ,
+	.sideBar .widgetWrap {
+    border-top: 1px solid #ddd;
+    padding: 30px 0 0 0;
+    margin: 30px 0 0 0;
+  }
+
+  .widget_area .sc_columns_item {
+    min-width: 22.6378% !important;
+  }
+
+  .isotopeWrap.portfolio_big .isotopeItem .isotopeContent .isotopeTitle,
+	.isotopeWrap.portfolio_medium .isotopeItem .isotopeContent .isotopeTitle {
+    font-size: 20px;
+  }
+
+  .isotopeWrap.portfolio_big .isotopeReadMore {
+    display: none;
+  }
+
+  .footerWidget .widget_area .sc_columns_item {
+    margin-bottom: 60px;
+  }
+
+  .woocommerce ul.products li.product, .woocommerce ul.products li.product {
+    width: 48% !important;
+    float: left !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .woocommerce ul.products li.product:nth-child(2n) {
+    float: left !important;
+    padding-left: 4% !important;
+  }
+
+  .woocommerce ul.products li.product a img {
+    margin-left: 0 !important;
+  }
+
+  .woocommerce .related ul li.product {
+    width: 48% !important;
+    float: left !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .woocommerce .related ul li.product:nth-child(2n) {
+    float: left !important;
+    padding-left: 4% !important;
+  }
+
+  .woocommerce .related ul li.product a img {
+    padding-left: 0 !important;
+  }
+}
+
+@media (max-width: 820px) {
+ 
+  .isotopeWrap .isotopeItem .isotopeRating span.rInfo {
+    padding: 3px 0;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeRating {
+    height: 35px;
+    margin: 0 0 0 -15px;
+    width: 30px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeRating:after {
+    border-width: 10px 15px 0 15px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeMore:before {
+    font-size: 30px;
+  }
+
+  .isotopeWrap.portfolio_big .isotopeItem .isotopeContent .isotopeTitle {
+    margin-bottom: 10px;
+  }
+
+/*--- global columns ---*/
+  .sc_columns_1_1,
+	.sc_columns_1 .sc_columns_item,
+	.sc_columns_1_2,
+	.sc_columns_2 .sc_columns_item {
+    width: 100%;
+  }
+
+  [class^="sc_columns_"].sc_columns_indent .sc_columns_item, 
+	[class*=" sc_columns_"].sc_columns_indent .sc_columns_item {
+    margin-bottom: 30px;
+  }
+
+  .sc_columns_1_3,
+	.sc_columns_3 .sc_columns_item,
+	.sc_columns_1_4,
+	.sc_columns_4 .sc_columns_item {
+    width: 50% !important;
+  }
+
+  .sc_columns_1_5,
+	.sc_columns_5 .sc_columns_item,
+	.sc_columns_1_6,
+	.sc_columns_6 .sc_columns_item,
+	.sc_columns_7 .sc_columns_item,
+	.sc_columns_8 .sc_columns_item,
+	.sc_columns_9 .sc_columns_item,
+	.sc_columns_10 .sc_columns_item,
+	.sc_columns_11 .sc_columns_item,
+	.sc_columns_12 .sc_columns_item {
+    width: 33.3333% !important;
+  }
+
+
+	/*--- global columns indent ---*/
+  .sc_columns_1.sc_columns_indent .sc_columns_item,
+	.sc_columns_2.sc_columns_indent .sc_columns_item {
+    width: 97.6378%;
+  }
+
+  .sc_columns_3.sc_columns_indent .sc_columns_item,
+	.sc_columns_4.sc_columns_indent .sc_columns_item {
+    width: 47.6378% !important;
+  }
+
+  .sc_columns_5.sc_columns_indent .sc_columns_item,
+	.sc_columns_6.sc_columns_indent .sc_columns_item,
+	.sc_columns_7.sc_columns_indent .sc_columns_item,
+	.sc_columns_8.sc_columns_indent .sc_columns_item,
+	.sc_columns_9.sc_columns_indent .sc_columns_item,
+	.sc_columns_10.sc_columns_indent .sc_columns_item,
+	.sc_columns_11.sc_columns_indent .sc_columns_item,
+	.sc_columns_12.sc_columns_indent .sc_columns_item {
+    width: 30.9711% !important;
+  }
+}
+
+/*===========================================*/
+@media (max-width: 669px) {
+ 
+  body {
+    min-width: 460px;
+  }
+
+  p {
+    margin: 0 0 10px 0;
+  }
+
+  .bodyStyleBoxed .wrapBox,
+	.wrapWide,
+	.fullWidth .isotopeWrap .fullContent article,
+	.main,
+	.mainWrap {
+    width: 420px;
+  }
+
+  .blogStreampageColumns .sc_columns_item {
+    width: 97.6378% !important;
+  }
+
+  .sideBar .widgetWrap {
+    width: 100%;
+  }
+
+  .reviewBlock {
+    width: 100%;
+  }
+
+  .author .authorInfo {
+    float: left;
+    margin-top: 20px;
+  }
+
+  .footerWidget .widget_area .sc_columns_item {
+    margin-bottom: 60px;
+  }
+
+  .woocommerce .related ul.products li.product a img {
+    margin-left: 0 !important;
+  }
+
+  .woocommerce .related ul li.product a img {
+    margin-left: 0px !important;
+  }
+}
+
+/*===========================================*/
+@media (max-width: 449px) {
+ 
+  body {
+    min-width: 320px;
+  }
+
+  .bodyStyleBoxed .wrapBox,
+	.wrapWide,
+	.fullWidth .isotopeWrap .fullContent article,
+	.main,
+	.mainWrap {
+    width: 320px;
+  }
+
+  .fullWidth .isotopeWrap .fullContent article {
+    width: 300px;
+  }
+
+  .widget_area .sc_columns_item,
+	.sc_columns_item {
+    width: 97.6378% !important;
+  }
+
+  .isotopeWrap.portfolio_mini .isotopeItem .isotopeContent .isotopeTitle,
+	.isotopeWrap.portfolio_medium .isotopeItem .isotopeContent .isotopeTitle,
+	.isotopeWrap.portfolio_big .isotopeItem .isotopeContent .isotopeTitle {
+    font-size: 15px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeContent .isotopeExcerpt,
+	.isotopeWrap .isotopeItem .isotopeStatickWrap .isotopeStatick .isotopeExcerpt {
+    display: none;
+  }
+
+  .isotopeTitle {
+    line-height: 25px;
+  }
+
+  .isotopeTitle a {
+    font-size: 20px;
+  }
+
+  .wrap {
+    padding: 0 5px;
+  }
+
+  .sc_infobox.sc_infobox_horizontal .sc_infobox_title {
+    font-size: 14px;
+    padding-right: 5px;
+    letter-spacing: 0.5px;
+    width: 90px;
+  }
+
+  .footerWidget .widget_area .sc_columns_item {
+    margin-bottom: 60px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeRating span.rInfo {
+    padding: 3px 0;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeRating {
+    height: 35px;
+    margin: 0 0 0 -15px;
+    width: 30px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeRating:after {
+    border-width: 10px 15px 0 15px;
+  }
+
+  .isotopeWrap .isotopeItem .isotopeMore:before {
+    font-size: 30px;
+  }
+
+  .woocommerce ul.products li.product h3 {
+    height: 20px;
+    overflow: hidden;
+    margin-bottom: 3px;
+  }
+
+  .sc_team .sc_columns_indent .sc_team_item {
+    margin: 0;
+  }
+	/*--- global columns ---*/
+  .sc_columns_1_1,
+	.sc_columns_1 .sc_columns_item,
+	.sc_columns_1_2,
+	.sc_columns_2 .sc_columns_item {
+    width: 100%;
+  }
+
+  .sc_columns_1_3,
+	.sc_columns_3 .sc_columns_item,
+	.sc_columns_1_4,
+	.sc_columns_4 .sc_columns_item {
+    width: 100% !important;
+  }
+
+  .sc_columns_1_5,
+	.sc_columns_5 .sc_columns_item,
+	.sc_columns_1_6,
+	.sc_columns_6 .sc_columns_item,
+	.sc_columns_7 .sc_columns_item,
+	.sc_columns_8 .sc_columns_item,
+	.sc_columns_9 .sc_columns_item,
+	.sc_columns_10 .sc_columns_item,
+	.sc_columns_11 .sc_columns_item,
+	.sc_columns_12 .sc_columns_item {
+    width: 50% !important;
+  }
+
+
+	/*--- global columns indent ---*/
+  .sc_columns_1.sc_columns_indent .sc_columns_item,
+	.sc_columns_2.sc_columns_indent .sc_columns_item {
+    width: 97.6378%;
+  }
+
+  .sc_columns_3.sc_columns_indent .sc_columns_item,
+	.sc_columns_4.sc_columns_indent .sc_columns_item {
+    width: 97.6378% !important;
+  }
+
+  .sc_columns_5.sc_columns_indent .sc_columns_item,
+	.sc_columns_6.sc_columns_indent .sc_columns_item,
+	.sc_columns_7.sc_columns_indent .sc_columns_item,
+	.sc_columns_8.sc_columns_indent .sc_columns_item,
+	.sc_columns_9.sc_columns_indent .sc_columns_item,
+	.sc_columns_10.sc_columns_indent .sc_columns_item,
+	.sc_columns_11.sc_columns_indent .sc_columns_item,
+	.sc_columns_12.sc_columns_indent .sc_columns_item {
+    width: 47.6378% !important;
+  }
+}
+
+
+/*================ isotope nav ==============*/
+
+@media (max-width: 1500px) {
+ 
+  .isotopeWrap .fullItemWrap .fullItemClosed {
+    right: 10px;
+  }
+
+  .isotopeWrap .fullItemWrap .isotopeNav {
+    width: 30px;
+    height: 30px;
+    top: 30px;
+    margin: 0;
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .isotopeWrap .fullItemWrap .isotopeNav:before {
+    width: 30px;
+    height: 30px;
+  }
+
+  .isotopeWrap .fullItemWrap .isotopeNav.isoNext {
+    right: 50px;
+  }
+
+  .isotopeWrap .fullItemWrap .isotopeNav.isoPrev {
+    right: 90px;
+    left: auto;
+  }
+}
